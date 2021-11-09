@@ -8,7 +8,7 @@
 {
     while (n % 2 == 0)
     {
-        console.log(2 + " ");
+        
         n = Math.floor(n / 2);
     }
     for(let i = 3;
